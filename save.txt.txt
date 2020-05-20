@@ -1,0 +1,6 @@
+http://www.teamgear.us/store.php?id=1'
+http://teamgear.us/store.php?id=1%27'
+http://teamgear.us/store.php?id=1%27'
+http://www.teamgear.us/icpc/product.php?id=110'
+http://icpc.teamgear.us/product.php?id=109'
+http://metalymetal.com/detalle?id_noticia=3'
